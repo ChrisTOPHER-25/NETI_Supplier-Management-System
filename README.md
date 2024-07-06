@@ -17,4 +17,5 @@ Setup:
 <li>5. Run "php artisan key:generate"</li>
 <li>6. Run "php artisan migrate"</li>
 <li>7. Run "php artisan serve"</li>
+<li>8. Run "npm run dev"</li>
 </ul>
