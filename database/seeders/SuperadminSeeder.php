@@ -16,7 +16,7 @@ class SuperadminSeeder extends Seeder
         User::factory()->create([
             'name' => 'Superadmin',
             'email' => 'superadmin@neti.com',
-            'password' => 'asdASD123',
+            'password' => bcrypt('asdASD123'),
             'user_type' => 'superadmin',
         ]);
     }
