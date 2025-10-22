@@ -10,12 +10,12 @@
 Setup:
 
 <ul>
-<li>1. Clone project</li>
-<li>2. Open project and install composer</li>
-<li>3. Copy and paste .env.example in the same directory then rename it to .env</li>
-<li>4. Open the .env file and update the database parameters</li>
-<li>5. Run "php artisan key:generate"</li>
-<li>6. Run "php artisan migrate"</li>
-<li>7. Run "php artisan serve"</li>
-<li>8. Run "npm run dev"</li>
+<li> Clone project</li>
+<li> Open project and install composer</li>
+<li> Copy and paste .env.example in the same directory then rename it to .env</li>
+<li> Open the .env file and update the database parameters</li>
+<li> Run "php artisan key:generate"</li>
+<li> Run "php artisan migrate"</li>
+<li> Run "php artisan serve"</li>
+<li> Run "npm run dev"</li>
 </ul>
